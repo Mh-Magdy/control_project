@@ -31,6 +31,7 @@
         "openglsupport": "cpp",
         "specialfunctions": "cpp",
         "splines": "cpp",
-        "tensor": "cpp"
+        "tensor": "cpp",
+        "vector": "cpp"
     }
 }
